@@ -1,2 +1,2 @@
 # Calculadora
-ex2
+A Fazer o Exercicio 2
