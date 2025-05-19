@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+```python
+def somar(a,b):
+    return a+b
+```
